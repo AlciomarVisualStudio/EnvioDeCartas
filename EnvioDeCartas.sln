@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvioDeCartas", "EnvioDeCartas\EnvioDeCartas.csproj", "{C8A1EF7F-D58A-4DFE-81D0-D12D4863F004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8A1EF7F-D58A-4DFE-81D0-D12D4863F004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A1EF7F-D58A-4DFE-81D0-D12D4863F004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A1EF7F-D58A-4DFE-81D0-D12D4863F004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A1EF7F-D58A-4DFE-81D0-D12D4863F004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32C7CA02-5F64-4639-87DF-0074145C01EC}
+	EndGlobalSection
+EndGlobal
